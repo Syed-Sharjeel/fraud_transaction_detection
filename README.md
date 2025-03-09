@@ -1,10 +1,16 @@
-A machine learning project for detecting fraudulent transactions using Logistic Regression. This project includes data preprocessing, feature engineering, model training, evaluation metrics, and visualizations to analyze fraud patterns. The dataset consists of financial transactions with various risk factors.
+## Fraud Detection Using Machine Learning**  
+This project implements a **fraud transaction detection system** using **Logistic Regression**. It analyzes transactional data to identify fraudulent activities based on key financial and behavioral indicators. The model is deployed as a **web-based interactive application** for real-time fraud prediction.  
 
-# Key Features:
- - Data Cleaning & Preprocessing (Handling missing values, encoding categorical features)
- - Feature Engineering (One-hot encoding, scaling numerical features)
- - Model Training & Evaluation (Logistic Regression, Precision, Recall, F1-score)
- - Fraud Detection Insights (Visualizing fraud patterns across different locations)
+## Features: 
+- Machine Learning-based fraud detection  
+- Streamlit-powered web interface  
+- Real-time transaction analysis  
+- Scalable and efficient model  
 
-# Technologies Used: 
-Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+## Technologies Used:
+- Python (Logistic Regression, Scikit-learn, Pandas, NumPy)  
+- Streamlit (for interactive web application)  
+
+## Dataset:
+- Synthetic Fraud Dataset (Kaggle)
+- 50,000 transactions with 19 features    
